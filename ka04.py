@@ -8,9 +8,6 @@
 #         return my_text
 #
 # MyApp().run()
-from tkinter import font
-
-import kivy
 
 # # 2.32
 # from kivy.app import App
